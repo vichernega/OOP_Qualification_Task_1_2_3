@@ -6,8 +6,8 @@ namespace QualificationAssignments
     {
         static void Main(string[] args)
         {
-         //   QualificationAssignment1();
-            //QualificationAssignment2();
+            QualificationAssignment1();
+            QualificationAssignment2();
             QualificationAssignment3();
         }
         
