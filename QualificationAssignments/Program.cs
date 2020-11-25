@@ -24,7 +24,7 @@ namespace QualificationAssignments
                 Console.Write("Enter your int type variable: ");
                 int intType = Convert.ToInt32(Console.ReadLine());
 
-                Console.Write("Entre your double type variable: ");
+                Console.Write("Enter your double type variable: ");
                 double doubleType = Convert.ToDouble(Console.ReadLine());
 
                 Console.Write("Enter your long type variable: ");
